@@ -1,0 +1,16 @@
+.idea/
+data
+data_new
+data_old
+*.avi
+runs*/
+mano/
+paper/images/
+videos
+*.pth
+recording/meta_converter.py
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class

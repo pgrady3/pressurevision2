@@ -1,0 +1,10 @@
+pyyaml
+opencv-python
+matplotlib
+numpy
+albumentations
+tqdm
+tensorboard
+torchmetrics
+pandas
+mediapipe
